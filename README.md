@@ -1,4 +1,3 @@
-# Olá-Mundo
- Meu primeiro repositorio
+# Olá, Mundo
+ Meu primeiro repositorio do curso de Git, GitHub
 
- Criado durante
